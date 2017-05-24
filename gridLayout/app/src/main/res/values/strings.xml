@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="to">to</string>
+    <string name="to_hint">to_hint</string>
+    <string name="send">send</string>
+    <string name="message">message</string>
+    <string name="button_text">Click Me</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="milk">milk</string>
+    <string name="sugar">Sugar</string>
+</resources>
